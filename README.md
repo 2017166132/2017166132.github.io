@@ -8,6 +8,14 @@
 
 # 计算机网络
 
+# JAVA虚拟机（JVM）
+
+# 操作系统
+
+# MySQL数据库
+
+# Linux
+
 # Redis
 
 
